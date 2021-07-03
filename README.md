@@ -1,4 +1,4 @@
-Hey, I'm @codeacula. I'm currently a Software Engineer III at Beast Code, primarily focused in web development. In my spare time I'm really into game programming and design, games in general, and programming in general. Please don't hesitate to reach out to me if you have any questions!
+Hey, I'm Codeacula! I'm currently a Software Engineer III at Beast Code, primarily focused in web development. In my spare time I'm really into game programming and design, games in general, and programming in general. Please don't hesitate to reach out to me if you have any questions!
 
 ### Collaboration
 
