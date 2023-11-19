@@ -1,4 +1,4 @@
-Reach me via email, codeacula@codeacula.com, or on Twitter, @codeacula.
+Reach me via email, codeacula@codeacula.com, on Twitter or Discord, @codeacula.
 
 <!---
 codeacula/codeacula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
